@@ -1,0 +1,13 @@
+{
+  "/_not-found/page": "app/_not-found/page.js",
+  "/api/department/route": "app/api/department/route.js",
+  "/api/sattendance/route": "app/api/sattendance/route.js",
+  "/api/student/route": "app/api/student/route.js",
+  "/page": "app/page.js",
+  "/api/auth/[kindeAuth]/route": "app/api/auth/[kindeAuth]/route.js",
+  "/dashboard/attendance/page": "app/dashboard/attendance/page.js",
+  "/dashboard/page": "app/dashboard/page.js",
+  "/dashboard/students/page": "app/dashboard/students/page.js",
+  "/dashboard2/page": "app/dashboard2/page.js",
+  "/dashboard2/students/page": "app/dashboard2/students/page.js"
+}
