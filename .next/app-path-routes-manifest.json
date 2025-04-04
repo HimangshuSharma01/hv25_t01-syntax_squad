@@ -1,13 +1,14 @@
 {
   "/_not-found/page": "/_not-found",
   "/api/department/route": "/api/department",
+  "/api/tattendance/route": "/api/tattendance",
   "/api/sattendance/route": "/api/sattendance",
   "/api/student/route": "/api/student",
-  "/page": "/",
   "/api/auth/[kindeAuth]/route": "/api/auth/[kindeAuth]",
+  "/page": "/",
   "/dashboard/attendance/page": "/dashboard/attendance",
   "/dashboard/page": "/dashboard",
-  "/dashboard/students/page": "/dashboard/students",
+  "/dashboard2/students/page": "/dashboard2/students",
   "/dashboard2/page": "/dashboard2",
-  "/dashboard2/students/page": "/dashboard2/students"
+  "/dashboard/students/page": "/dashboard/students"
 }

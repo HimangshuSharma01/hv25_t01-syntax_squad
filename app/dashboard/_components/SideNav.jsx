@@ -13,7 +13,7 @@ function SideNav() {
     { id: 1, name: "Overall Dashboard", icon: LayoutIcon, path: "/dashboard" },
     { id: 2, name: "Students Information", icon: GraduationCap, path: "/dashboard/students" },
     { id: 3, name: "Daily Attendance", icon: Hand, path: "/dashboard/attendance" },
-    { id: 4, name: "Settings", icon: Settings, path: "/dashboard/settings" },
+    { id: 4, name: "Your Attendance", icon: Settings, path: "/app/dashboard/attendance2" },
   ];
 
   const path = usePathname();
