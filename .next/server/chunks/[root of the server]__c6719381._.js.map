@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 6, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":"","debugId":null}},
+    {"offset": {"line": 116, "column": 0}, "map": {"version":3,"sources":["file:///workspaces/hv25_t01-syntax_squad/app/api/auth/%5BkindeAuth%5D/route.js"],"sourcesContent":["import { handleAuth,  } from \"@kinde-oss/kinde-auth-nextjs/server\";\n\nexport const GET = handleAuth();\n\n"],"names":[],"mappings":";;;AAAA;;AAEO,MAAM,MAAM,CAAA,GAAA,sLAAA,CAAA,aAAU,AAAD","debugId":null}}]
+}
